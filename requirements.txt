@@ -1,0 +1,6 @@
+# Copyright 2026 — reproducible environment for Heart Disease Risk Prediction
+# Tested with Python 3.14.6 / pandas 3.0.3 / scikit-learn 1.9.0
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.3

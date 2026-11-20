@@ -1,0 +1,10 @@
+Classification report — Random Forest (test set, seed=42)
+================================================================
+              precision    recall  f1-score   support
+
+  No disease     0.9643    0.8182    0.8852        33
+     Disease     0.8182    0.9643    0.8852        28
+
+    accuracy                         0.8852        61
+   macro avg     0.8912    0.8912    0.8852        61
+weighted avg     0.8972    0.8852    0.8852        61

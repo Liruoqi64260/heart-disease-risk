@@ -1,0 +1,22 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "n_train": 242,
+  "n_test": 61,
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.8852,
+      "precision": 0.8387,
+      "recall": 0.9286,
+      "f1": 0.8814,
+      "roc_auc": 0.9665
+    },
+    "Random Forest": {
+      "accuracy": 0.8852,
+      "precision": 0.8182,
+      "recall": 0.9643,
+      "f1": 0.8852,
+      "roc_auc": 0.9464
+    }
+  }
+}
